@@ -10,3 +10,4 @@ You can also find me on LinkedIn [English Profile](https://www.linkedin.com/in/e
 
 ## Credits:
 * Footer icons created by [Gregor Cresnar](http://www.flaticon.com/authors/gregor-cresnar=).
+* Content icons created by [Chanut is Industries](http://www.flaticon.com/authors/chanut-is-industries).
