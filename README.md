@@ -7,3 +7,6 @@ You can also find me on LinkedIn [English Profile](https://www.linkedin.com/in/e
 
 ## Notes:
 * Please refer to PDF and ODT files primarily  as they're the most up to date ones.
+
+## Credits:
+* Footer icons created by [Gregor Cresnar](http://www.flaticon.com/authors/gregor-cresnar=).
